@@ -1,0 +1,93 @@
+@charset "UTF-8";
+/*
+theme name: montheme
+
+*/
+.jmb{ 
+    background:url('./img/hero.jpg');
+    background-size:cover;
+    height: 400px;
+}
+.im{ 
+    width:80%;
+    height: 400px;
+    margin-bottom:10px ;
+}
+.cent{ 
+    text-align: center;
+}
+.mar{ 
+    margin-left: 150px;
+    margin-right: 150px;
+}
+.marl{ 
+    margin-left: 60px;
+}
+.mar-l{ 
+    margin-left: 150px;
+}
+.alert {
+    width:50%;    
+ }
+ .al{
+     align-items: center;
+ }
+ .comments{ 
+     border: 1px black solid;
+     padding:10px;
+     margin-bottom:10px ;
+     margin-top: 10px;
+     width:40%;
+     height: 600px;
+     background-color: rgb(202, 187, 212);
+    
+ }
+ // comments number
+ .comments h2 { 
+    background:#rgb(32, 109, 185);
+    color:black;
+     padding: 5px;
+     padding-top: 5px;
+     font-size: 5px;
+     
+ }
+ .comment-body{ 
+     border: black solid 1px;
+     margin-bottom: 10px;
+     
+     
+ }
+ .comment-meta  { 
+    background: #aaa9ac;
+    color:white;
+    margin-top: 10px;
+    overflow: auto;
+    
+    
+ }
+ .comment-reply-link { 
+     background: #343a40;
+     color:white;
+     display: inline-block;
+     padding: 10px 15px ;
+     margin-bottom: 10px ;
+    
+     
+ }
+ .comment-form input {
+    background: #343a40;
+    color:white;
+     width: 100%;
+     padding: 4px;
+     border:black 1px;
+     margin-bottom: 5px;
+     
+ }
+ .comment-form textarea {
+    width: 100%;
+    padding: 4px;
+    border: #343a40 solid 1px;
+    margin-bottom: 15px;
+    width:490px;
+    height: 90px;
+}
